@@ -1,7 +1,10 @@
 import occpollution
-from occpollution.io import path_target
-from occpollution.ani.animation import map_iteration
-from occpollution.ani.animation import animation
+from occpollution.io 
+import path_target
+from occpollution.ani.animation
+import map_iteration
+from occpollution.ani.animation 
+import animation
 import pandas as pd
 import webbrowser
 import os, sys
