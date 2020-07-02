@@ -7,6 +7,7 @@ setup(
   url='https://github.com/MegDie/occpollution',
   author='MEGANE Diéval, GUELADIO Niasse, JEAN BAPTISTE Elucson',
   author_email='megane.dieval@etu.umontpellier.fr',
+  author_email='jean-baptiste.elucson@etu.umontpellier.fr',
   license='MIT',
   packages=['occpollution', 'occpollution.map',
    'occpollution.ani', 'occpollution.preprocess', 'occpollution.io', 'occpollution.map'],
